@@ -1,7 +1,7 @@
 {
     "name": "bszyk/zip-wp",
-    "description": "Package versioned zip files for WordPress plugins.",
-    "license": "GPLv3",
+    "description": "Create packaged & versioned WordPress plugin zip.",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Brian Siklinski",
