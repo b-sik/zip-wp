@@ -3,8 +3,8 @@ set -e
 
 echo "" &&
     echo "=======================================================" &&
-    echo "*        Build a ZIP for Dynamic Content              *" &&
-    echo "*               pls use Bash ^4                       *" &&
+    echo "*         Build a ZIP for WordPress Plugins           *" &&
+    echo "*                pls use Bash ^4                      *" &&
     echo "=======================================================" &&
     echo ""
 
