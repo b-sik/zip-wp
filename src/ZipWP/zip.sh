@@ -43,7 +43,6 @@ function getChangelog() {
 PLUGIN="$(basename $PWD)"
 
 # Plugin slug and Version
-read -r -p "Plugin Slug: " PLUGIN
 read -r -p "Version: " VERSION
 
 # Make _releases folder
