@@ -1,10 +1,22 @@
 # zip-wp
-## v0.1.0-alpha
-
-`composer require bszyk/zip-wp --dev`
 
 **Conveniently build, package, and create a .zip for your WordPress plugin.**
 
+### Install
+`composer require bszyk/zip-wp --dev`
+
+update your project's `composer.json`:
+```json
+ "scripts": {
+        "zip-wp": [
+            "ZipWP\\ZipWP::run_script"
+        ]
+    }
+```
+
+To use, run `composer zip-wp` in the project's root folder.
+
+###  What it does
 Composer package that runs a `bash` script that: 
 
 1. Gets the plugin slug from the home directory folder name.
