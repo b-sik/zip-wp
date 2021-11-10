@@ -1,7 +1,7 @@
 {
     "name": "bszyk/zip-wp",
     "description": "Create packaged & versioned WordPress plugin zip.",
-    "version": "v0.1.0-alpha",
+    "version": "v0.1.0",
     "type": "wordpress-plugin",
     "keywords": ["wordpress", "wordpress-plugin", "zip"],
     "license": "GPL-3.0-or-later",
