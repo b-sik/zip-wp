@@ -1,4 +1,9 @@
 # zip-wp
+## v0.1.0-alpha
+
+`composer require bszyk/zip-wp --dev`
+
+**Conveniently build, package, and create a .zip for your WordPress plugin.**
 
 Composer package that runs a `bash` script that: 
 
