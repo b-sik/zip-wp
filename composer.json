@@ -1,0 +1,20 @@
+{
+    "name": "bszyk/zip-wp",
+    "description": "Package versioned zip files for WordPress plugins.",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Brian Siklinski",
+            "email": "bszyk.codes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ZipWP": "src/"
+        }
+    }
+}
